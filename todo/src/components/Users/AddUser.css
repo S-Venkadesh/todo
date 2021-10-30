@@ -1,0 +1,15 @@
+label{
+    color: white;
+    margin-bottom: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+input{
+    margin-bottom: 10px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 0px;
+}

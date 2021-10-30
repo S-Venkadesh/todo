@@ -1,0 +1,8 @@
+.cardContainer{
+    background-color: rgb(255, 0, 136);
+    box-shadow: 8px 10px 7px rgb(90 58 87);
+    width: 50rem;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
